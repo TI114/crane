@@ -1,0 +1,10 @@
+/home/bastelfreak/Crane/Crane/obj/Debug/Crane.csprojResolveAssemblyReference.cache
+/home/bastelfreak/Crane/Crane/obj/Debug/Crane.csproj.CoreCompileInputs.cache
+/home/bastelfreak/Crane/Crane/bin/Debug/Crane.exe
+/home/bastelfreak/Crane/Crane/bin/Debug/Crane.pdb
+/home/bastelfreak/Crane/Crane/bin/Debug/OpenTK.dll
+/home/bastelfreak/Crane/Crane/bin/Debug/OpenTK.GLControl.dll
+/home/bastelfreak/Crane/Crane/bin/Debug/OpenTK.xml
+/home/bastelfreak/Crane/Crane/bin/Debug/OpenTK.GLControl.xml
+/home/bastelfreak/Crane/Crane/obj/Debug/Crane.exe
+/home/bastelfreak/Crane/Crane/obj/Debug/Crane.pdb
